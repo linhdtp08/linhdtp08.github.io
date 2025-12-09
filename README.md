@@ -1,14 +1,25 @@
+# Hello! My name is Phuong Linh, you can call me Pauline!
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dinht.phuonglinh@gmail.com) 
+# 📚 Education:
+- ### 2024 - now: Foreign Trade University
+  Bachelor of International Business Economics
+- ### 2020 - 2023: Nghia Hung B High School
+  Just a daydreamer ;) 
 
 # 📁 Experience:
-- Deputy Head of Communications Department at [Entrepreneur Z Community](https://www.facebook.com/zperience)<br/>
+- ### March 2024 - now: Deputy Head of Communications Department at [Entrepreneur Z Community](https://www.facebook.com/zperience)<br/>
   Creating key visuals and designing social posts<br/>
   Participating in creating communication plan for students' events<br/>
+  Organizing public events with an average audience of around 300 people
+
+# 🧰 Skills:
+Graphic Design, Teamwork, Communication skills, Leadership skills, Content writing skills<br/>
+Languages: Vietnamese, English & Chinese
+
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=linhdtp08&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=linhdtp08&theme=blueberry&hide_border=false)<br/>
@@ -16,6 +27,9 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+## 🌐 Contact me via:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dinht.phuonglinh@gmail.com) 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=linhdtp08&icon=0&color=0)](https://visitcount.itsvg.in)
